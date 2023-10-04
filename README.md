@@ -15,7 +15,7 @@ t.me/Aillustratebot
 
 ### 1. Clone repo to server
 ```
-foo@bar:~$ git clone https://github.com/anna-marshalova/aillustrate.git
+foo@bar:~$ git clone https://github.com/Aillustrate/bootcamp-hackathon.git
 ```
 
 ### 2. Install requirements.txt
